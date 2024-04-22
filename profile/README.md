@@ -1,3 +1,5 @@
+![Dashboard](screenshots/dashboard.png)
+
 # Meet the PHYRE APPS Team
 
 Welcome to the PHYRE APPS GitHub profile! We are a dedicated team of developers passionate about creating powerful solutions for web hosting management. Our mission is to empower users with intuitive tools and robust platforms to streamline their hosting infrastructure.
