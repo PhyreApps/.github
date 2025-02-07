@@ -1,8 +1,8 @@
 [![Banner](banner.svg)](banner.svg)
 
-
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/phyre)
-
+<a href="https://www.buymeacoffee.com/phyre">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="max-height: 50px;">
+</a>
 
 
 # Meet the PHYRE APPS Team
