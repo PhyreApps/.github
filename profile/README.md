@@ -1,7 +1,7 @@
 [![Banner](banner.svg)](banner.svg)
 
 
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/phyre){ width=30px }
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png){ width=60px }](https://www.buymeacoffee.com/phyre)
 
 # Meet the PHYRE APPS Team
 
