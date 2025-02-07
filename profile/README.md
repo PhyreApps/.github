@@ -1,4 +1,4 @@
-[![Banner](banner.png)](https://raw.githubusercontent.com/PhyreApps/.github/refs/heads/main/banner.png)
+[![Banner](banner.png)](banner.png)
 
 # Meet the PHYRE APPS Team
 
