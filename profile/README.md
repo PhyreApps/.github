@@ -1,7 +1,7 @@
 [![Banner](banner.svg)](banner.svg)
 
 <a href="https://www.buymeacoffee.com/phyre">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="20px">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="100px">
 </a>
 
 
