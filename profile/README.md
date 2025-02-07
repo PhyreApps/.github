@@ -1,13 +1,13 @@
 [![Banner](banner.svg)](banner.svg)
 
-<a href="https://www.buymeacoffee.com/phyre">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="100px">
-</a>
-
-
 # Meet the PHYRE APPS Team
 
 Welcome to the PHYRE APPS GitHub profile! We are a dedicated team of developers passionate about creating powerful solutions for web hosting management. Our mission is to empower users with intuitive tools and robust platforms to streamline their hosting infrastructure.
+
+# Support for better apps
+<a href="https://www.buymeacoffee.com/phyre">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
+</a>
 
 ## Who We Are
 
