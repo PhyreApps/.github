@@ -1,4 +1,4 @@
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](banner.png)
 
 # Meet the PHYRE APPS Team
 
